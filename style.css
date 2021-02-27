@@ -1,0 +1,31 @@
+body{
+ margin: 0;   
+ padding:0;
+
+ font-size: 17px;
+ height: 100vh; 
+ display: flex;
+  align-items: center;
+    justify-content: center;
+   
+}
+.kalkulator{
+   text-align: center;
+    background-color: lightslategray;
+  
+}
+#tema{
+    width: 300px;
+    height: 99px;
+    font-size: 30px;
+     justify-content: center;
+  flex-wrap: wrap;
+    display: flex;
+
+    display: inline-block;
+}
+input[type=button], button{
+ background-color: whitesmoke;
+ padding:16px ;
+ 
+}
