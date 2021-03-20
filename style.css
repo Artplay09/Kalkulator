@@ -7,7 +7,9 @@ body{
     display: flex;
      align-items: center;
        justify-content: center;
-    background-color: lightskyblue;
+    background-image: url(https://99px.ru/sstorage/53/2017/03/mid_195399_3467.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
    }
    .kalkulator{
       text-align: center;
